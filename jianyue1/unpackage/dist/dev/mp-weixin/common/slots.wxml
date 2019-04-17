@@ -1,0 +1,4 @@
+<import src="/graceUI/components/graceMaskView.vue.wxml" />
+
+<template name="data-v-e1270390-default-fdfd28ca-2-+index"><view class="_view data-v-e1270390"><image src="../../static/nav3-a.png" style="width:100%; margin-top:25px; border-top-right-radius:5px; border-top-left-radius:5px;" mode="widthFix" class="_image data-v-e1270390"></image></view></template>
+
